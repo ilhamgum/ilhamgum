@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate web developer, been doing this for 2 years especially in front-end development. I love small details in ui/ux web development design, build an apps, learn new technologies, and foods️.
+I'm a passionate web developer, been doing this for 2 years especially in front-end development. I love small details in ui/ux web development design, build an apps, learn new technologies, foods️ and some nebulas in outer galaxy.
 
 
 ## 🌐 Socials:
