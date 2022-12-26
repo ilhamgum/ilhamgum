@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I'm a passionate web developer, been doing this for 2 years especially in front-end development. I love small details in ui/ux web development design, build an apps, learn new technologies, and foods️.
 
 
 ## 🌐 Socials:
