@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilham Gumilang</h1>
 <h3 align="center">I am an experienced Frontend Developer passionate about building a scalable, highmaintainability, performant code base for the company and clients I've worked with. Along have been doing this since 2021. I'm a proven team player, demanded to keep in touch with the backend team to create seamless API integration within applications. Thus, adapting on an environment is a necessity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhamgum&label=Profile%20views&color=0e75b6&style=flat" alt="ilhamgum" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilhamgum" alt="ilhamgum" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ilham_g_" target="blank"><img src="https://img.shields.io/twitter/follow/ilham_g_?logo=twitter&style=for-the-badge" alt="ilham_g_" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
