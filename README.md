@@ -3,7 +3,7 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamgum&" alt="ilhamgum" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamgum&" alt="ilhamgum" /></p>
 
 <br/>
 
@@ -20,4 +20,4 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamgum&show_icons=true&locale=en&layout=compact" alt="ilhamgum" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilhamgum&show_icons=true&locale=en&layout=compact" alt="ilhamgum" /></p>
