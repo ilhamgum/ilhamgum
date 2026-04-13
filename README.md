@@ -3,9 +3,12 @@
 
 <br/>
 
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamgum&" alt="ilhamgum" /></p>
+<p align="left" style="width: 100%">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamgum&" alt="ilhamgum" />
+</p>
 
 <br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
