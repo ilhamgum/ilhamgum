@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ilham Gumilang</h1>
-<h3 align="left">I am an experienced Frontend Developer passionate about building a scalable, high-maintainability, performant code base for the company and clients I've worked with. Along have been doing this since 2021. I'm a proven team player, demanded to keep in touch with the backend team to create seamless API integration within applications. Thus, adapting on an environment is a necessity.</h3>
+<h3 align="left">
+  I am an experienced Software Developer with a strong passion for building scalable, high-maintainability, and high-performance codebases for both companies and clients. I have been working in this field since 2021. I am a proven team player who collaborates closely with teams to ensure seamless applications. Adaptability and effective communication are core strengths that enable me to thrive in dynamic working environments.
+</h3>
 
 <br/>
 
